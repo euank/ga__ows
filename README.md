@@ -6,11 +6,11 @@ This is a very basic terminal-based game which was originally inspired by a
 combination of Wordle and Hangman.
 
 There's a very high chance that this game has been invented before, but I do
-not perticularly want to google for it to find out.
+not particularly want to google for it to find out.
 
 So, what's the game?
 
-You are given a hangman like set of letters all filled in, and a set of letters
+You are given a hangman-like set of letters and blanks, and a set of letters
 that are _not_ in the word. It is your goal to figure out the single common
 word that can fit.
 
@@ -35,8 +35,8 @@ Not actually fully implemented, but there's something and it works :)
 
 ### Why the name?
 
-It's a bun on "hangman" since the only word that fits into "Ga\_\_ows" is
-gallows. But I didn't feel like gallows humor was appropraite for the actual
+It's a pun on "hangman" since the only word that fits into "Ga\_\_ows" is
+gallows. But I didn't feel like gallows humor was appropriate for the actual
 name, so it's left in a footnote.
 
 This is effectively just playing the last turn of a hangman game, so a
