@@ -1,4 +1,6 @@
-## Guillotine
+## Ga\_\_ows
+
+Ga\_\_ows (or *Ga*me *o*f *W*ord*s* if you like) is yet another word game.
 
 This is a very basic terminal-based game which was originally inspired by a
 combination of Wordle and Hangman.
@@ -29,10 +31,13 @@ answer, based on a list of common english words.
 
 ### Current status
 
-Not actually fully implemented, but something!
+Not actually fully implemented, but there's something and it works :)
 
 ### Why the name?
 
-This is effectively just playing the last turn of a hangman game, hence
-guillotine. It also feels appropriate to have a hangman derived game have a
-similarly awful name.
+It's a bun on "hangman" since the only word that fits into "Ga\_\_ows" is
+gallows. But I didn't feel like gallows humor was appropraite for the actual
+name, so it's left in a footnote.
+
+This is effectively just playing the last turn of a hangman game, so a
+derivative name seems appropriate to me.
